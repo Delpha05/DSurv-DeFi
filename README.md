@@ -1,4 +1,4 @@
-<img src = "DSurv.jpg" >
+<img src = "images/DSurv.jpg" >
 
 
 # Check your Balance
