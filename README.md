@@ -1,4 +1,4 @@
-![DSurv](https://drive.google.com/file/d/1mrkN_dtz5gzCRp78GUnYgkKCRsSyE0jN/view?usp=sharing )
+[![DSurv]([https://github.com/altercation/solarized/raw/master/img/solarized-yinyang.png](https://github.com/Delpha05/DSurv-DeFi/blob/master/DSurv.JPG))]
 
 
 # Check your Balance
