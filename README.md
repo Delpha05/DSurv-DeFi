@@ -1,4 +1,4 @@
-<img src = "images/DSurv.jpg" >
+![](images/DSurv.jpg)
 
 
 # Check your Balance
