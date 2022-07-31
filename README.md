@@ -1,4 +1,4 @@
-[![DSurv]([https://github.com/altercation/solarized/raw/master/img/solarized-yinyang.png](https://github.com/Delpha05/DSurv-DeFi/blob/master/DSurv.JPG))]
+![](DSurv.jpg)
 
 
 # Check your Balance
