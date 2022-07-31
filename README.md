@@ -1,3 +1,6 @@
+<img src = "DSurv.jpg" >
+
+
 # Check your Balance
 
 1. Find out your principal id:
